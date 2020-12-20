@@ -1,4 +1,4 @@
-# client of simple blog
+# Client
 
 ``` bash
 # install dependencies
